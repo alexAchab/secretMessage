@@ -25,27 +25,52 @@
 
     MESSAGES.push({
         delay: 9200,
-        text: "_waiting..."
+        text: "_pending..."
     });
 
     MESSAGES.push({
         delay: 10200,
-        text: "_tracking your device..."
-    });
-
-    MESSAGES.push({
-        delay: 12200,
-        text: "_100% completed"
-    });
-
-    MESSAGES.push({
-        delay: 13200,
-        text: "_waiting..."
+        text: "_collecting your data..."
     });
 
     MESSAGES.push({
         delay: 14200,
+        text: "_100% completed"
+    });
+
+    MESSAGES.push({
+        delay: 15200,
+        text: "_pending..."
+    });
+
+    MESSAGES.push({
+        delay: 16200,
+        text: "_tracking your device..."
+    });
+
+    MESSAGES.push({
+        delay: 20200,
+        text: "_100% completed"
+    });
+
+    MESSAGES.push({
+        delay: 21200,
+        text: "_pending..."
+    });
+
+    MESSAGES.push({
+        delay: 22200,
         text: "_taking over..."
+    });
+
+    MESSAGES.push({
+        delay: 26200,
+        text: "_100% completed"
+    });
+
+    MESSAGES.push({
+        delay: 27200,
+        text: "_full control granted"
     });
 
     $container = $("#container");
