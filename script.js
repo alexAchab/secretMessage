@@ -4,18 +4,28 @@
   MESSAGES = [];
 
   MESSAGES.push({
-    delay: 0,
+    delay: 1200,
     text: "...INCOMING TRANSMISSION..."
   });
 
   MESSAGES.push({
-    delay: 1200,
-    text: "Qui êtes-vous?"
+    delay: 2200,
+    text: "Je suis"
   });
 
   MESSAGES.push({
-    delay: 2200,
-    text: "Pourquoi?"
+    delay: 3200,
+    text: "_disord3r"
+  });
+
+  MESSAGES.push({
+    delay: 4200,
+    text: "Tu aimes mon travail ?"
+  });
+
+  MESSAGES.push({
+    delay: 5200,
+    text: "J'admire le tien."
   });
 
   $container = $("#container");
