@@ -10,32 +10,27 @@
 
     MESSAGES.push({
         delay: 2200,
-        text: "Qu'est-ce que TOI tu veux ?"
+        text: "Stupidement génial"
     });
 
     MESSAGES.push({
         delay: 3200,
-        text: "Quelque chose de fou ?"
+        text: "Grandiosement stupide"
     });
 
     MESSAGES.push({
         delay: 4200,
-        text: "Quelque chose de grand ?"
-    });
-
-    MESSAGES.push({
-        delay: 5200,
-        text: "Quelque chose de stupide ?"
+        text: "Il t'en faut plus ?"
     });
 
     MESSAGES.push({
         delay: 6200,
-        text: "Les trois ?"
+        text: "Mot clé..."
     });
 
     MESSAGES.push({
-        delay: 9200,
-        text: "Je fais les trois."
+        delay: 8200,
+        text: "NRD"
     });
 
     $container = $("#container");
