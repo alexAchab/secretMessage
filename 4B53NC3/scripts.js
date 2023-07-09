@@ -10,27 +10,47 @@
 
     MESSAGES.push({
         delay: 2200,
-        text: "Stupidement génial"
-    });
-
-    MESSAGES.push({
-        delay: 3200,
-        text: "Grandiosement stupide"
+        text: "Nice"
     });
 
     MESSAGES.push({
         delay: 4200,
-        text: "Il t'en faut plus ?"
+        text: "J'ai ouvert une faille dans leur système"
     });
 
     MESSAGES.push({
         delay: 6200,
-        text: "Mot clé..."
+        text: "Assez pour entrer et sortir..."
     });
 
     MESSAGES.push({
         delay: 8200,
-        text: "NRD"
+        text: "Accéder à une session ouverte..."
+    });
+
+    MESSAGES.push({
+        delay: 10200,
+        text: "Mais pas la base de données"
+    });
+
+    MESSAGES.push({
+        delay: 12200,
+        text: "J'ai besoin de plus de mains"
+    });
+
+    MESSAGES.push({
+        delay: 14200,
+        text: "Plus de puissance de traitement"
+    });
+
+    MESSAGES.push({
+        delay: 16200,
+        text: "Pour déclencher un leak épique"
+    });
+
+    MESSAGES.push({
+        delay: 18200,
+        text: "Je t'envoie les logs ?"
     });
 
     $container = $("#container");
