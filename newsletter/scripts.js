@@ -20,12 +20,12 @@
 
     MESSAGES.push({
         delay: 7200,
-        text: "Odelia + Eoghan + Ciaran;"
+        text: "> Odelia + Eoghan + Ciaran;"
     });
 
     MESSAGES.push({
         delay: 8200,
-        text: "Samuel + Anaïs + Daphné + Elizabeth;"
+        text: "> Samuel + Anaïs + Daphné + Elizabeth;"
     });
 
     MESSAGES.push({
@@ -45,12 +45,12 @@
 
     MESSAGES.push({
         delay: 13200,
-        text: "Aodh + Ethan + Tasya + Medea;"
+        text: "> Aodh + Ethan + Tasya + Medea;"
     });
 
     MESSAGES.push({
         delay: 14200,
-        text: "Lilas + Caleb + Isalin + Naya;"
+        text: "> Lilas + Caleb + Isalin + Naya;"
     });
 
     MESSAGES.push({
@@ -70,12 +70,12 @@
 
     MESSAGES.push({
         delay: 19200,
-        text: "Elinor + Stanislas + Elias;"
+        text: "> Elinor + Stanislas + Elias;"
     });
 
     MESSAGES.push({
         delay: 20200,
-        text: "Jean + Blanche + Myrtle + January;"
+        text: "> Jean + Blanche + Myrtle + January;"
     });
 
     MESSAGES.push({
@@ -95,12 +95,12 @@
 
     MESSAGES.push({
         delay: 25200,
-        text: "Dana + Rhys + Wynonna;"
+        text: "> Dana + Rhys + Wynonna;"
     });
 
     MESSAGES.push({
         delay: 26200,
-        text: "Alexandra + Orihime + Tsukiko + Archimède;"
+        text: "> Alexandra + Orihime + Tsukiko + Archimède;"
     });
 
     MESSAGES.push({
