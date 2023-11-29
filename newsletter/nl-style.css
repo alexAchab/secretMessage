@@ -35,7 +35,7 @@ p:last-child {
 
 #message {
   position: absolute;
-  height: 750px;
+  min-height: 750px;
   width: 100%;
   left: 50%;
   top: 50%;
