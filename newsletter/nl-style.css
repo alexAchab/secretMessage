@@ -22,7 +22,7 @@ p:last-child {
   position: absolute;
   top: -46%;
   content: "";
-  background-color: #050505;
+  background-color: #191e32;
   width: 10px;
   height: 24px;
   animation: blink 1s step-end infinite;
