@@ -20,7 +20,7 @@
 
     MESSAGES.push({
         delay: 7200,
-        text: "> Odelia + Eoghan + Ciaran;"
+        text: "> Odelia + Eoghan + Ciàran;"
     });
 
     MESSAGES.push({
@@ -50,7 +50,7 @@
 
     MESSAGES.push({
         delay: 14200,
-        text: "> Lilas + Caleb + Isalin + Naya;"
+        text: "> Lilas + Caleb + Isalín + Naya;"
     });
 
     MESSAGES.push({
