@@ -100,7 +100,7 @@
 
     MESSAGES.push({
         delay: 26200,
-        text: "> Alexandra + Orihime + Tsukiko + Archimède;"
+        text: "> Orihime + Tsukiko + Archimède;"
     });
 
     MESSAGES.push({
